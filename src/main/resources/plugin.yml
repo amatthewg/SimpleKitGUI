@@ -1,0 +1,4 @@
+name: SimpleKitGUI
+version: '${project.version}'
+main: com.pepperish.simplekitgui.SimpleKitGUI
+api-version: '1.20'
